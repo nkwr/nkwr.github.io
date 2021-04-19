@@ -1,12 +1,12 @@
 
 
-![picture](rong.jpeg)
+![picture](rong.jpeg =200x)
 
 #### E-mail : 
 nkwangrong@mail.nankai.edu.cn
 
 ## RongWang
-![picture](rong.jpeg)
+![picture](rong.jpeg =100x)
 I’m currently a master student of computer science at Nankai University, Tianjin, China. I am supervised by Associate Professor Shao-ping Lu. Before that, I received my bachelor degree from Nankai University in 2019. My research interests include 3D image synthesis, content security and computer vision. 
 
 
