@@ -5,15 +5,15 @@ I’m currently a master student of computer science at Nankai University, Tianj
 E-mail : nkwangrong@mail.nankai.edu.cn
 
 
-### Publications
+## Publications
 
-#### Large-capacity Image Steganography Based on Invertible Neural Networks
+### Large-capacity Image Steganography Based on Invertible Neural Networks
 Shao-Ping Lu#, Rong Wang#, Tao Zhong, Paul L. Rosin
 
 CVPR 2021 [project] [pdf|中译版|supp] 
 
 
-#### Low-Rank Constrained Super-Resolution for Mixed-Resolution Multiview Video
+### Low-Rank Constrained Super-Resolution for Mixed-Resolution Multiview Video
 Shao-Ping Lu#,Sen-Mao Li#, Rong Wang, Gauthier Lafruit, Ming-Ming Cheng and Adrian Munteanu
 
 TIP 2021 [pdf] 
