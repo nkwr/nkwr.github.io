@@ -11,3 +11,9 @@ E-mail : nkwangrong (at) mail (dot) nankai (dot) edu(dot) cn
 Shao-Ping Lu*, Rong Wang*, Tao Zhong, Paul L. Rosin
 
 CVPR 2021 [Project] [pdf|中译版|supp]
+
+#### Low-Rank Constrained Super-Resolution for Mixed-Resolution Multiview Video
+Shao-Ping Lu *, Sen-Mao Li*, Rong Wang, Gauthier Lafruit, Ming-Ming Cheng and Adrian Munteanu
+TIP 2021 [PDF] 
+
+
