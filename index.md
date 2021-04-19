@@ -6,9 +6,9 @@
 nkwangrong@mail.nankai.edu.cn
 
 ## RongWang
-<img src="rong.jpeg" width="80">
-I’m currently a master student of computer science at Nankai University, Tianjin, China. I am supervised by Associate Professor Shao-ping Lu. Before that, I received my bachelor degree from Nankai University in 2019. My research interests include 3D image synthesis, content security and computer vision. 
 
+I’m currently a master student of computer science at Nankai University, Tianjin, China. I am supervised by Associate Professor Shao-ping Lu. Before that, I received my bachelor degree from Nankai University in 2019. My research interests include 3D image synthesis, content security and computer vision. 
+<img src="rong.jpeg" width="80">
 
 ## Publications
 
