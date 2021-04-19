@@ -1,6 +1,6 @@
 
 
-![picture](rong.jpeg =200*)
+<img src="rong.jpeg" width="200">
 
 #### E-mail : 
 nkwangrong@mail.nankai.edu.cn
