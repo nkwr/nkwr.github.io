@@ -9,7 +9,6 @@ E-mail : nkwangrong@mail.nankai.edu.cn
 
 ### Large-capacity Image Steganography Based on Invertible Neural Networks
 Shao-Ping Lu#, Rong Wang#, Tao Zhong, Paul L. Rosin
-
 CVPR 2021  [project|pdf|中译版|supp] 
 
 
