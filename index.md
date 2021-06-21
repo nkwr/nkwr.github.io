@@ -15,7 +15,7 @@ I’m currently a master student of computer science at Nankai University, Tianj
 ### Large-capacity Image Steganography Based on Invertible Neural Networks
 
 [Shao-Ping Lu](https://shaopinglu.net/)#,  **Rong Wang**#,  Tao Zhong,  Paul L. Rosin，    
-**CVPR 2021** [project](https://www.shaopinglu.net/proj-cvpr21/steganography.html)|[pdf](https://www.shaopinglu.net/publications_files/CVPR21__Image_Steganography.pdf)|[中译版](https://www.shaopinglu.net/publications_files/cvpr21__image_steganography_chinese.pdf)|[results](https://github.com/nkwr/ISN)] 
+**CVPR 2021** [project](https://www.shaopinglu.net/proj-cvpr21/steganography.html)|[pdf](https://www.shaopinglu.net/publications_files/CVPR21__Image_Steganography.pdf)|[中译版](https://www.shaopinglu.net/publications_files/cvpr21__image_steganography_chinese.pdf)|[results](https://github.com/nkwr/ISN)
 
 
 
